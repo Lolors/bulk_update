@@ -1,3 +1,4 @@
-streamlit>=1.31,<2.0
+streamlit==1.44.0
 pandas>=2.0,<2.3
+
 openpyxl>=3.1,<4.0
